@@ -89,3 +89,7 @@ select_promotion
 promoClick
 
 Whenever a user selects the promo on your website
+
+Source: https://www.vakulski-group.com/blog/post/how-to-set-up-ecommerce-tracking-in-google-analytics-4/
+
+
